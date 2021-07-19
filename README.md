@@ -1,2 +1,2 @@
 # Java
-# Pasta contendo codigos dos meus estudos de da linguagem java
+# Pasta contendo codigos dos meus estudos da linguagem java

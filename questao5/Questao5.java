@@ -1,6 +1,21 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ * Crie um programa para um sistema de locação de filmes digitais. O sistema possui filmes nas categorias:
+    *lançamento
+    *promoção
+    *infantil
+    *geral
+O filme deve ter os seguintes atributos:
+    *título
+    *categoria
+    *preço de locação
+*Crie os métodos getts e settes para os atributos
+*Crie um método para calcular o preço da locação
+*Crie um método para imprimir os atributos.
+*Use como base para criação das classes as informações abaixo.
+    *Filmes de um modo geral possui um valor normal de locação de R$4,00;
+    *Filmes infantis possui um valor normal de locação + acréscimo de R$ 2,00;
+    *Filmes em Lançamento possui um valor normal de locação + acréscimo de R$ 3,00;
+    *Filmes em promoção possuem um valor normal de locação + desconto de R$ 2,00.
  */
 
 package com.mycompany.questao5;
